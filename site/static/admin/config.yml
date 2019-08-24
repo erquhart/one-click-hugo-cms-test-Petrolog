@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Petrolog-IT/one-click-hugo-cms
+  repo: erquhart/one-click-hugo-cms-test-Petrolog
   branch: master
 publish_mode: editorial_workflow
 
